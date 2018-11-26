@@ -1,3 +1,12 @@
+# Title
+Mrs. Branson's Cinnamon Rolls
+
+# Cook Time
+15 - 20 minutes
+
+# Prep Time
+15 minutes active, 3 hours rise
+
 # Ingredients
 - 1 Package yeast (active dry yeast, mix with warm water)
 - 1 C warm water
